@@ -43,7 +43,8 @@ public class MainActivity extends AppCompatActivity {
                         new int[]{R.drawable.tabbar_pair,R.drawable.tabbar_pair_select},
                         new int[]{R.drawable.tabbar_mostfire,R.drawable.tabbar_mostfire_select},
                         new int[]{R.drawable.tabbar_me,R.drawable.tabbar_me_select}},
-                new Class[]{MainFragment.class,MainFragment.class,MainFragment.class,MainFragment.class,MainFragment.class});
+                new Class[]{MainFragment.class,MainFragment.class,MainFragment.class,
+                        MainFragment.class,MainFragment.class});
         mTabHost.setTabWidgetBackground(R.color.tab_widget_background);
 
     }
