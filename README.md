@@ -6,8 +6,8 @@ FragmentTabHost-master is a library of FragmentTabHost
 
 ## Instructions
 
-### TOP:
+#### TOP:
 ![image](https://github.com/FreetoflyBai/FragmentTabHost-master/blob/master/screenshots/3.png)
 
-### Bottom:
+#### Bottom:
 ![image](https://github.com/FreetoflyBai/FragmentTabHost-master/blob/master/screenshots/4.png)
